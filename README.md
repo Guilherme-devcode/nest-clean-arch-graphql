@@ -1,4 +1,4 @@
-# 🏗️ FineAndYou Backend  
+# 🏗️ Nest JS clean-arch Backend  
 
 Backend desenvolvido com **NestJS**, **GraphQL** e **MongoDB**, seguindo os princípios da **Clean Architecture**.  
 
