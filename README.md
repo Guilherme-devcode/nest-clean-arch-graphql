@@ -42,5 +42,3 @@ npm run start:dev
 ### 📌 Acessar o GraphQL Playground  
 Após iniciar o servidor, acesse:  
 👉 [http://localhost:3000/graphql](http://localhost:3000/graphql)  
-
-Se precisar de mais detalhes, me avise! 🚀
