@@ -1,0 +1,35 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type GetAllUserDto {
+  """Nome do usuário"""
+  name: String!
+
+  """Senha do usuário"""
+  password: String!
+
+  """Email do usuário"""
+  email: String!
+}
+
+type Query {
+  getHello: String!
+  getHello2: String!
+  getAllUsers: [GetAllUserDto!]!
+}
+
+type Mutation {
+  createUser(data: CreateUserDto!): String!
+}
+
+input CreateUserDto {
+  """Nome do usuário"""
+  name: String!
+
+  """Senha do usuário"""
+  password: String
+
+  """Email do usuário"""
+  email: String!
+}
