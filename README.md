@@ -27,13 +27,6 @@ git clone https://github.com/Guilherme-devcode/nest-clean-arch-graphql.git
 npm install
 ```  
 
-### ⚙️ Configurar variáveis de ambiente  
-Crie um arquivo **.env** na raiz do projeto e adicione:  
-```env
-MONGO_URI=mongodb://localhost:27017/userdb
-PORT=3000
-```  
-
 ### ▶️ Rodar o projeto  
 ```sh
 npm run start:dev
