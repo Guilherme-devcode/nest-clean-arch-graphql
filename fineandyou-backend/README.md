@@ -1,4 +1,4 @@
-# 🏗️ FineAndYou Backend  
+# 🏗️ Nest JS clean-arch Backend  
 
 Backend desenvolvido com **NestJS**, **GraphQL** e **MongoDB**, seguindo os princípios da **Clean Architecture**.  
 
@@ -20,19 +20,11 @@ Antes de começar, certifique-se de ter instalado:
 ### 📥 Clonar o repositório  
 ```sh
 git clone https://github.com/Guilherme-devcode/nest-clean-arch-graphql.git
-cd fineandyou-backend
 ```  
 
 ### 📦 Instalar dependências  
 ```sh
 npm install
-```  
-
-### ⚙️ Configurar variáveis de ambiente  
-Crie um arquivo **.env** na raiz do projeto e adicione:  
-```env
-MONGO_URI=mongodb://localhost:27017/userdb
-PORT=3000
 ```  
 
 ### ▶️ Rodar o projeto  
@@ -43,5 +35,3 @@ npm run start:dev
 ### 📌 Acessar o GraphQL Playground  
 Após iniciar o servidor, acesse:  
 👉 [http://localhost:3000/graphql](http://localhost:3000/graphql)  
-
-Se precisar de mais detalhes, me avise! 🚀
