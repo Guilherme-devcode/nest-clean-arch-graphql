@@ -19,7 +19,7 @@ Antes de começar, certifique-se de ter instalado:
 
 ### 📥 Clonar o repositório  
 ```sh
-git clone https://github.com/seu-usuario/fineandyou-backend.git
+git clone https://github.com/Guilherme-devcode/nest-clean-arch-graphql.git
 cd fineandyou-backend
 ```  
 
